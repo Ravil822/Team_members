@@ -1,0 +1,26 @@
+{
+  "name": "team_members",
+  "version": "1.0.0",
+  "description": "Team member generator",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ravil822/Team_members.git"
+  },
+  "author": "Ravil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ravil822/Team_members/issues"
+  },
+  "homepage": "https://github.com/Ravil822/Team_members#readme",
+  "dependencies": {
+    "jest": "^25.1.0"
+  }
+}
