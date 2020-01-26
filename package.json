@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/Ravil822/Team_members#readme",
   "dependencies": {
+    "fs-extra": "^8.1.0",
+    "inquirer": "^7.0.3",
     "jest": "^25.1.0"
   }
 }
