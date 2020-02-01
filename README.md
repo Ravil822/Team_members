@@ -19,7 +19,7 @@ https://github.com/Ravil822/Team_members
 <img alt="Demo" src="lib/pictures/screen1.png">
 <br> 
 <hr>
-<img alt="Demo" src="lib/pictures/screen1.png">
+<img alt="Demo" src="lib/pictures/screen2.png">
 
 # Terms
 
