@@ -123,7 +123,7 @@ function createHTML() {
      </html>`;
      employees.forEach(employee => teamHTML);
     //  console.log(teamHTML)
-     fs.writeFile("./lib/output/myteam.html", teamHTML, function(err) {
+     fs.writeFile("./output/myteam.html", teamHTML, function(err) {
         if (err) {
            return console.log(err);
         }
